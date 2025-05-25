@@ -6,3 +6,8 @@ Finished Unit01:
 
 Finished Unit02:
 "Unit02"
+
+Finished Unit03:
+"Unit03/4_Categorical_features_實戰.ipynb"
+"Unit03/5_Prepocessing_實戰.ipynb"
+"Unit03/6_scikit_learn_Basic_實戰.ipynb"
