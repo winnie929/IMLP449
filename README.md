@@ -14,3 +14,7 @@ Finished Unit03:
 
 Finished Unit04:
 "Unit04/Linear Regression_HW.ipynb"
+
+Finished Unit05:
+"Unit05/02_Logistic regression實戰.ipynb"
+"Unit05_2/SVM實戰.ipynb"
