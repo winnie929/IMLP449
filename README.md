@@ -18,3 +18,8 @@ Finished Unit04:
 Finished Unit05:
 "Unit05/02_Logistic regression實戰.ipynb"
 "Unit05_2/SVM實戰.ipynb"
+
+Finished Unit06:
+"Unit06/1.3_ConfusionMatrix_實戰.ipynb"
+"Unit06/2.3_Ensemble實戰.ipynb"
+"Unit06/Kaggle預測結果.png"
